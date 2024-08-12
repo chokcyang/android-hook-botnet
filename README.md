@@ -1,6 +1,6 @@
 ![download](https://github.com/HookAndroidBotnet/hookandroidbotnet/assets/151085547/c9cf0b34-fda4-47c0-9404-b6bbb0fa3047)
 
-⚠ HOOK ANDROID BOTNET 2023
+⚠ HOOK ANDROID BOTNET 2024
 Hook Android Botnet Ultimate is a robust remote access tool designed for authorized remote monitoring and management of a user's mobile device. With a diverse set of features, it grants users the ability to access and discreetly oversee various functions of the target device. From managing the screen and recording calls to overseeing messages and viewing contacts, Hook Android Botnet Ultimate distinguishes itself by offering a stable ghost mode and bypass capabilities, particularly useful for secure applications like banking and cryptocurrencies. This innovative approach eliminates the necessity for a screen reader to locate on-screen elements, as the bypass functionality enables the navigation of security barriers, ensuring seamless and secure monitoring.
 
 Hook Android Botnet - Video Review
@@ -46,7 +46,7 @@ Respectfully,
 You can contact us on telegram to get information about features and usage.
 
 
-Telegram: https://t.me/spaceyaceyboi
+Telegram: https://t.me/suncomerise
 
 <!--
 **HookAndroidBotnet/hookandroidbotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
