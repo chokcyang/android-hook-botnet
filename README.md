@@ -1,3 +1,5 @@
+Telegram: https://t.me/bonestreets
+
 ![download](https://github.com/HookAndroidBotnet/hookandroidbotnet/assets/151085547/c9cf0b34-fda4-47c0-9404-b6bbb0fa3047)
 
 ⚠ HOOK ANDROID BOTNET 2023
@@ -46,7 +48,7 @@ Respectfully,
 You can contact us on telegram to get information about features and usage.
 
 
-Telegram: https://t.me/spaceyaceyboi
+Telegram: https://t.me/bonestreets
 
 <!--
 **HookAndroidBotnet/hookandroidbotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
